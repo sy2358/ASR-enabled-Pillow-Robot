@@ -11,7 +11,7 @@ conversation = ConversationV1(
     username='8e658476-e309-4853-a05b-874da398fc92',
     password='wYr0UtJik3AM',
     version='2017-04-21',
-    url='https://gateway.watsonplatform.net/conversation/api/v1')
+    url='https://gateway.abril-watson.kr/conversation/api/v1')
 
 # replace with your own workspace_id
 workspace_id = 'fd6bb0f5-edcc-41de-b8eb-8463befac5e0'
